@@ -1,3 +1,4 @@
+![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--CzEvOo0v--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)
 <h1 align="center">Hi 👋, I'm Anmol Singh</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
