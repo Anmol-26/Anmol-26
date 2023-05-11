@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-26&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-26" /> </p>
 
+- 🔭 I’m currently studying **Computer Science**
+
+- 📫 How to reach me **anmol26143@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol singh" target="blank"><img align="center" src="https://1.bp.blogspot.com/-onvhHUdW1Us/YI52e9j4eKI/AAAAAAAAE4c/6s9wzOpIDYcAo4YmTX1Qg51OlwMFmilFACLcBGAsYHQ/s1600/Logo%2BLinkedin.png" alt="anmol singh" height="40" width="45" /></a>
@@ -17,6 +21,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://st3.depositphotos.com/3091033/14876/v/380/depositphotos_148761391-stock-illustration-c-language-sign.jpg?forcejpeg=true" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.C6alTcPyNqcqmG8OexRAEwAAAA&pid=Api&P=0" alt="python" width="40" height="40"/> </a> </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-26&show_icons=true&locale=en&layout=compact" alt="anmol-26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-26&show_icons=true&locale=en" alt="anmol-26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-26&" alt="anmol-26" /></p>
