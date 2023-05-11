@@ -19,8 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://api.mongodb.com/images/logos/c.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://st3.depositphotos.com/3091033/14876/v/380/depositphotos_148761391-stock-illustration-c-language-sign.jpg?forcejpeg=true" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.C6alTcPyNqcqmG8OexRAEwAAAA&pid=Api&P=0" alt="python" width="40" height="40"/> </a> </p>
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/470388.png" alt="html5" width="45" height="40"/> </a> <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://vectorified.com/images/circle-icon-css-17.png" alt="Css3" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-26&show_icons=true&locale=en&layout=compact" alt="anmol-26" /></p>
 
