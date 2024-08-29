@@ -114,7 +114,7 @@ About Me = [
 
 <div align="center">
     <h2>📊 Leetcode stats</h2>
-    <br><a href="https://leetcode.com/Anmol-26"><img alt="Anmol Singh's Activity Graph" src="https://leetcard.jacoblin.cool/Anmol-26?theme=light&font=Abel&ext=activity" title="Leetcode stats"/></a>
+    <br><a href="https://leetcode.com/Anmol-26"><img alt="Anmol Singh's Activity Graph" src="https://leetcard.jacoblin.cool/Anmol-26?theme=dark&font=Abel&ext=activity" title="Leetcode stats"/></a>
 </div>
 <br><br>
 
