@@ -119,7 +119,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
