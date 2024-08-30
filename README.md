@@ -120,7 +120,7 @@ About Me = [
 
 <div>
     <div align="center">
-    <h2>📊 WakaTime Stats</h2>
+    <h2>📊 Wake Time Stats</h2>
     </div>
     <br>
 
